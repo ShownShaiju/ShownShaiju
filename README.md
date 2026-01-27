@@ -1,4 +1,4 @@
-Hi, I’m Shown 👋  
+## Hi, I’m Shown 👋  
 
 I’m learning cloud and backend fundamentals and building projects while documenting my progress in public.
 
