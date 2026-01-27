@@ -10,4 +10,14 @@ Currently focused on:
 
 📘 AWS notes: https://github.com/ShownShaiju/aws-learning  
 
+### Tech Stack
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Python](https://img.shields.io/badge/Python-Programming-blue)
+![Git](https://img.shields.io/badge/Git-Version_Control-red)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue)
+![SQL](https://img.shields.io/badge/SQL-Databases-lightgrey)
+![AI](https://img.shields.io/badge/AI-Practical_Exposure-green)
+
+
 📍 India
