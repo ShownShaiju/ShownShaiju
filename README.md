@@ -3,7 +3,7 @@
 I’m learning cloud and backend fundamentals and building projects while documenting my progress in public.
 
 Currently focused on:
-- AWS core services (EC2, Auto Scaling)
+- AWS core services (EC2, Auto Scaling,IAM)
 - Backend development with Python
 - Practical AI exposure (model training, agent integration in web apps)
 - Git and clean version control practices
