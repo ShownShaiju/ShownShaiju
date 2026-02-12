@@ -6,7 +6,7 @@ I document what I learn, refine it over time, and turn theory into system-level 
 
 ---
 
-## 🔍 Current Focus
+##  Current Focus
 
 - AWS core architecture (EC2, Auto Scaling, ALB, VPC, IAM)
 - Serverless systems (Lambda, API Gateway, S3, CloudFront)
@@ -17,9 +17,9 @@ I document what I learn, refine it over time, and turn theory into system-level 
 - Practical AI exposure (model training, agent integration in web apps)
 ---
 
-## 🧠 What I’m Doing Differently
+##  What I’m Doing Differently
 
-Instead of rushing projects, I’m:
+I’m intentionally building:
 
 - Building deep architectural clarity first
 - Connecting services across real-world scenarios
@@ -30,7 +30,7 @@ Theory → Mental model → Deployment.
 
 ---
 
-## 🚧 Upcoming Hands-On Builds
+##  Upcoming Hands-On Builds
 
 - Static site deployment with S3 + CloudFront + Route 53  
 - EC2 application behind ALB with Auto Scaling  
