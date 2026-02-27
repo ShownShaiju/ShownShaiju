@@ -3,7 +3,7 @@
 **Cloud & DevOps Engineer** · AWS Certified Solutions Architect – Associate (SAA-C03)  
 Building real systems, documenting real failures, learning in public.
 
-[![AWS SAA-C03](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://www.credly.com/badges)
+[![AWS SAA-C03](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat&logo=amazonaws&logoColor=white)]([https://www.credly.com/badges](https://www.credly.com/badges/9e2850a5-6b19-4017-9df5-8858c49b517d))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shownshaiju-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shownshaiju)
 [![Location](https://img.shields.io/badge/Location-Kerala,_India-green?style=flat)](https://github.com/ShownShaiju)
 
