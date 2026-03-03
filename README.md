@@ -1,7 +1,7 @@
 # Hi, I'm Shown Shaiju 👋
 
-**Cloud & DevOps Engineer** · AWS Certified Solutions Architect – Associate (SAA-C03)  
-Building real systems, documenting real failures, learning in public.
+**Cloud & Backend Engineer** · AWS Certified Solutions Architect – Associate (SAA-C03)  
+I build real systems, document real failures, and learn in public.
 
 [![AWS SAA-C03](https://img.shields.io/badge/AWS_SAA--C03-Certified-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/9e2850a5-6b19-4017-9df5-8858c49b517d)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shownshaiju-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shownshaiju)
@@ -14,25 +14,31 @@ Building real systems, documenting real failures, learning in public.
 ### DevRPG — 5-Tier Cloud-Native Platform
 > Django · Celery · Redis · PostgreSQL · Nginx · Docker · Kubernetes · AWS EKS · S3
 
-Containerized and deployed a full 5-tier decoupled monolith to Amazon EKS. Not a tutorial follow-along — a real deployment with real failures.
+Containerized and deployed a full 5-tier decoupled system to Amazon EKS. Not a tutorial follow-along — a real deployment with real failures.
 
-**What I actually debugged:**
-- 🔧 Refactored Celery image pipeline to run entirely in-memory via `io.BytesIO` — S3 objects have no local paths
-- 🔧 Diagnosed a Docker phantom bind-mount bug (directory created where a file should be)
-- 🔧 Traced a cascading `SyntaxError` that flatlined the entire compute layer via shared Docker image
-- 🔧 Identified and fixed an Nginx DNS cache trap — stale IP after container rebuild caused 502s
-- 🔧 Resolved Kubernetes `CrashLoopBackOff` from missing EBS CSI driver and OIDC trust misconfiguration
-- 🔧 Fixed a Postgres `initdb` failure caused by AWS formatting a `lost+found` dir on fresh EBS volume
-- 🔧 Caught a trailing whitespace POSIX violation in a `kubectl` secret
+<details>
+<summary>🔧 What I actually debugged (click to expand)</summary>
+
+<br>
+
+- Refactored Celery image pipeline to run entirely in-memory via `io.BytesIO` — S3 objects have no local paths
+- Diagnosed a Docker phantom bind-mount bug (directory created where a file should be)
+- Traced a cascading `SyntaxError` that flatlined the entire compute layer via shared Docker image
+- Identified and fixed an Nginx DNS cache trap — stale IP after container rebuild caused 502s
+- Resolved Kubernetes `CrashLoopBackOff` from missing EBS CSI driver and OIDC trust misconfiguration
+- Fixed a Postgres `initdb` failure caused by AWS formatting a `lost+found` dir on fresh EBS volume
+- Caught a trailing whitespace POSIX violation in a `kubectl` secret
+
+</details>
 
 👉 [View Repository](https://github.com/ShownShaiju/DevRPG)
 
 ---
 
 ### AWS Learning Notes
-> 13 days of structured study → SAA-C03 passed first attempt
+> SAA-C03 passed first attempt · Self-studied · No mentor
 
-Day-by-day documented learning — architecture patterns, failure modes, cost behavior.
+Day-by-day structured notes — architecture patterns, failure modes, cost behavior, from zero to certified.
 
 👉 [View Notes](https://github.com/ShownShaiju/aws-learning)
 
@@ -57,24 +63,26 @@ Day-by-day documented learning — architecture patterns, failure modes, cost be
 ![Nginx](https://img.shields.io/badge/Nginx-Reverse_Proxy-009639?style=flat&logo=nginx&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-Message_Broker-DC382D?style=flat&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Advanced-FCC624?style=flat&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-Intermediate-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
+<details>
+<summary>🎯 Currently Learning (click to expand)</summary>
 
-![Shown's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShownShaiju&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShownShaiju&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ShownShaiju&theme=tokyonight&hide_border=true)
-
----
-
-## 🎯 Currently Learning
+<br>
 
 - Terraform (Infrastructure as Code)
 - Cloud Resume Challenge — Lambda, API Gateway, DynamoDB, CloudFront
 - Kubernetes internals — understanding what I've already deployed, from first principles
+
+</details>
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ShownShaiju&theme=tokyonight&hide_border=true)
 
 ---
 
