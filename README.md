@@ -79,12 +79,13 @@ Day-by-day structured notes — architecture patterns, failure modes, cost behav
 </details>
 
 ---
+## 📊 GitHub Stats
 
-## 📊 GitHub Activity
+<div align="left">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ShownShaiju?cardType=level&theme=dark&preferLogin=false&Border=null" alt="ShownShaiju's GitHub Stats" />
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ShownShaiju&theme=tokyonight&hide_border=true)
-
----
+<br clear="both"/>---
 
 ## 📍 Where I'm Headed
 
