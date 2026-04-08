@@ -82,7 +82,7 @@ Day-by-day structured notes — architecture patterns, failure modes, cost behav
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ShownShaiju?cardType=level&theme=dark&preferLogin=false&Border=null" alt="ShownShaiju's GitHub Stats" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ShownShaiju?cardType=level&theme=dark&preferLogin=false&Border=null" width="400" alt="ShownShaiju's GitHub Stats" />
 </div>
 
 <br clear="both"/>---
