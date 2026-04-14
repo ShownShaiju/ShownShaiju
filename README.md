@@ -77,8 +77,15 @@ Day-by-day structured notes — architecture patterns, failure modes, cost behav
 - Kubernetes internals — understanding what I've already deployed, from first principles
 
 </details>
+---
+
+## 📝 Latest Blog Posts
+
+<!-- HASHNODE_POSTS:START -->
+<!-- HASHNODE_POSTS:END -->
 
 ---
+
 ## 📊 GitHub Stats
 
 <div align="left">
