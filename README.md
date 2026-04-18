@@ -77,7 +77,6 @@ Day-by-day structured notes — architecture patterns, failure modes, cost behav
 - Kubernetes internals — understanding what I've already deployed, from first principles
 
 </details>
----
 
 ## 📝 Latest Blog Posts
 
@@ -86,7 +85,6 @@ Day-by-day structured notes — architecture patterns, failure modes, cost behav
 **[How I Passed AWS SAA-C03 in 3 Weeks With No Course or Mentor](https://blog.shownshaiju.me/how-i-passed-aws-saa-c03-in-3-weeks-with-no-course-or-mentor)** — Mar 22, 2026
 
 <!-- HASHNODE_POSTS:END -->
-
 ---
 
 ## 📊 GitHub Stats
@@ -95,7 +93,7 @@ Day-by-day structured notes — architecture patterns, failure modes, cost behav
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ShownShaiju?cardType=level&theme=dark&preferLogin=false&Border=null" width="400" alt="ShownShaiju's GitHub Stats" />
 </div>
 
-<br clear="both"/>---
+<br clear="both"/>
 
 ## 📍 Where I'm Headed
 
