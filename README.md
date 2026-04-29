@@ -81,8 +81,6 @@ Day-by-day structured notes — architecture patterns, failure modes, cost behav
 ## 📝 Latest Blog Posts
 
 <!-- HASHNODE_POSTS:START -->
-[![How I Passed AWS SAA-C03 in 3 Weeks With No Course or Mentor](https://cdn.hashnode.com/uploads/covers/69c0441bd9da55a9a5d156c1/8c94ad14-ebe4-4745-9124-cc007c03d5ed.png)](https://blog.shownshaiju.me/how-i-passed-aws-saa-c03-in-3-weeks-with-no-course-or-mentor)
-**[How I Passed AWS SAA-C03 in 3 Weeks With No Course or Mentor](https://blog.shownshaiju.me/how-i-passed-aws-saa-c03-in-3-weeks-with-no-course-or-mentor)** — Mar 22, 2026
 
 <!-- HASHNODE_POSTS:END -->
 ---
